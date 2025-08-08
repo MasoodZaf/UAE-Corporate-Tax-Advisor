@@ -1,0 +1,39 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: '[FEATURE] '
+labels: ['enhancement']
+assignees: ''
+---
+
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+
+**Business Impact**
+- [ ] Low - Nice to have
+- [ ] Medium - Improves user experience
+- [ ] High - Critical for business operations
+- [ ] Critical - Required for compliance/legal
+
+**User Story**
+As a [type of user], I want [goal] so that [benefit].
+
+**Acceptance Criteria**
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Criterion 3
+
+**Technical Considerations**
+Any technical considerations or constraints that should be considered.
+
+**Related Issues**
+Link to any related issues or pull requests.
